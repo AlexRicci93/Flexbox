@@ -1,0 +1,81 @@
+body {
+    min-height: 100vh;
+    display: flex;
+}
+
+.SIDEBAR {
+    min-width: 200px;
+    background-color: grey;
+    display: flex;
+
+}
+
+.content {
+    flex-grow: 1;
+    display: flex;
+}
+
+
+.inner-text {
+    color: #2b2b2b;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+
+}
+
+
+
+
+
+h4 {
+    padding-top: 30%;
+    text-align: center;
+}
+
+
+
+
+h4:hover {
+   color: #2b2bb2;
+}
+
+
+
+h5 {
+    padding-top: 5%;
+   margin-left: 10px;
+
+
+}
+
+img {
+    position: absolute;
+    width: 110px;
+    margin-left: 48px;
+    margin-top: 90px;
+    
+}
+
+.USER {
+    
+    position: absolute;
+    margin: auto;
+    padding-top: 10%;
+    
+
+}
+
+
+    
+    
+.avatar {
+    width: 90px;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 5px;
+    padding-top: 6%;
+
+}
+    
+
